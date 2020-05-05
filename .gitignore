@@ -1,3 +1,4 @@
 *.pyc
 .idea/
 .git/
+krb5.conf

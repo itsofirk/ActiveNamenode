@@ -1,0 +1,2 @@
+class ActiveNamenodeFailedToFoundException(Exception):
+    pass
